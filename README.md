@@ -4,5 +4,5 @@ It is part of The Odin Project course.
 
 # Preview
 
-[Live demo](https://cosm33n.github.io/odin_recipes_2/)
+[Live demo](https://cosm33n.github.io/odin_recipes/)
 
